@@ -11,20 +11,13 @@ logout       # Logs out from the system
 ### **File Management Commands**
 ```sh
 ls          # Lists files in the current directory
-list *      # Displays files with details
-print myfile.txt   # Displays the contents of a file
-copy source.txt > destination.txt   # Copies a file
-delete oldfile.txt   # Deletes a file
-rename oldname.txt newname.txt   # Renames a file
+list       # Displays files with details
 ```
 
 ### **User and Process Management**
 ```sh
 whoami       # Shows the current user
 status       # Displays system status and resources
-logout_user user123   # Logs out a specific user
-pstat        # Shows process information
-kill 1234    # Terminates a process by ID
 ```
 
 ### **System Navigation**
