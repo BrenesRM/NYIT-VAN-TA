@@ -4,7 +4,7 @@ This guide will walk you through setting up and running a Multics environment us
 
 ## Prerequisites
 - Ensure you have [Docker](https://docs.docker.com/get-docker/) installed on your system.
-- Basic knowledge of using the terminal/command prompt. https://www.youtube.com/watch?v=dCwk8z_Hvb0
+- Basic knowledge of Docker. https://www.youtube.com/watch?v=dCwk8z_Hvb0
 - How to install on Windows: https://www.youtube.com/watch?v=ZyBBv1JmnWQ
 
 ```sh
