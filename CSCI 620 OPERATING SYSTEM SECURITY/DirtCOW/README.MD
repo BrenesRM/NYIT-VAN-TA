@@ -1,5 +1,7 @@
 # Dirty COW Vulnerability Analysis (CVE-2016-5195)
 
+Lab Setup: https://seedsecuritylabs.org/labsetup.html
+
 ## Overview
 This assignment focuses on analyzing the Dirty COW (Copy-On-Write) vulnerability (CVE-2016-5195), a privilege escalation bug in the Linux kernel. You will explore its technical details, exploitation methods, impact, and mitigation strategies.
 
