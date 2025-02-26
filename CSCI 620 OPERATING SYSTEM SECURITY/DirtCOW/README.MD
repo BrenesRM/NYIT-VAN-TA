@@ -41,15 +41,15 @@ This assignment focuses on analyzing the Dirty COW (Copy-On-Write) vulnerability
 - Any PoC code (if applicable and permitted), along with execution logs/screenshots.
 
 ## Submission Guidelines
-- Format: IEEE or APA style (cite sources properly).
-- Length: 4-6 pages (excluding references and appendices).
-- Deadline: [Insert Due Date].
-- Submit via [Insert Submission Platform].
+- Format: IEEE (cite sources properly).
+- Length: 3-6 pages (excluding references and appendices).
+- Deadline: X.
+- Submit via CANVAS in format PDF.
 
 ## References
 - CVE-2016-5195: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5195
 - Red Hat Security Advisory: https://access.redhat.com/security/cve/CVE-2016-5195
-- Dirty COW Exploit Analysis: [Insert additional relevant sources].
+- Dirty COW Exploit Analysis: X
 
 ---
 
